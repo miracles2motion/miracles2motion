@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1999boss&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/1999boss?label=Followers&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/1999boss?label=Stars&style=flat-square&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=miracles2motion&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/miracles2motion?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/miracles2motion?label=Stars&style=flat-square&color=yellow" />
 </div>
 
 <br>
 
 ## 🌟 About Me
 
-Hi, I'm **Aigbomian Miracle** — a creative **Graphic Designer** and **Motion Graphics Designer** passionate about bringing ideas to life through visuals.  
-I specialize in crafting eye-catching designs, animated storytelling, and building clean, modern landing pages that convert.
-
-I love combining creativity with code to create memorable digital experiences.
+From scroll-stopping graphics to animated storytelling, I bring ideas to life. 
+I’m Aigbomian Miracle, a Graphic and Motion Designer passionate about creating visuals that move and engage. By blending dynamic animations with clean, high-converting landing pages, I merge design and code to craft digital experiences that leave a lasting impression.
 
 ---
 
@@ -67,7 +65,7 @@ I love combining creativity with code to create memorable digital experiences.
 ---
 
 ## 🌍 Let’s Connect
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/1999boss)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/miracles2motion)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aigbomian-miracle-2050ba212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:miracletom1999@gmail.com)
 
