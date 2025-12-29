@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+Miracle's+GitHub!;Graphic+%26+Motion+Designer;Crafting+Visual+Stories+✨;Designer+of+Stunning+Landing+Pages" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=1999boss&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/1999boss?label=Followers&style=flat-square&color=blue" />
@@ -10,11 +5,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=1999boss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=1999boss&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
 
 ## 🌟 About Me
 
