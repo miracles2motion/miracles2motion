@@ -46,7 +46,7 @@ I’m Aigbomian Miracle, a Graphic and Motion Designer passionate about creating
 
 ## 🚀 Notable Projects
 
-- <a href= "https://miracles2motion.github.io/portfolio/" target="_blank" rel="noopener noreferrer">**Personal Portfolio Website**</a>  
+- <a href= "https://miracles2motion.github.io/portfolio/" onclick= "window.open("https://miracles2motion.github.io/portfolio/", "_blank"); return false;">**Personal Portfolio Website**</a>  
   A sleek, responsive landing page showcasing my design and motion work — built with HTML, CSS, JavaScript, and smooth animations.
 
 - **Brand Identity & Motion Intro**  
